@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "mylibrary2"
-version = "0.1.0"
+version = "1.0.0"
 description = "second try"
 authors = ["Paulou74"]
 license = "MIT"
