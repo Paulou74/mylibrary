@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## v1.1.0 (2024-09-22)
+
+### Feature
+
+* feat(mylibrary2): add pandas as pd ([`d32eb9c`](https://github.com/Paulou74/mylibrary/commit/d32eb9c90209cd9e5215724a090f3dfd1a386b9f))
+
 ## v1.0.0 (2024-09-22)
 
 ### Breaking
